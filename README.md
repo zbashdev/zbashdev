@@ -1,6 +1,3 @@
-# Merhaba!
-I am **zbashdev**, also known as **İbrahim**. I am 22 years old and I am continuously improving myself in the fields of software and game servers.
-
 ## Programming Languages ​​I Use :rocket:
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
